@@ -2,3 +2,5 @@ This is doc2
 keep working hard
 Adding comments in new branch
 Adding new line in master branch
+Adding comments in second branch
+
